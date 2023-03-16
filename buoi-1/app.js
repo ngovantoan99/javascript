@@ -1,4 +1,4 @@
-var myName = 'toannnnnn';
+var myName = 'hue';
     myName = 'Van';
 
 let age = 12;
